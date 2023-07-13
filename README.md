@@ -8,9 +8,12 @@ Users should be able to view the optimal layout depending on their device's scre
 
 **Desktop version**
 
+![image](https://github.com/KJabeen/Stats-Preview-Card-Component/assets/126177876/d2cbe720-04c7-406d-b979-88025352ef07)
 
 
 **Mobile version**
+
+![image](https://github.com/KJabeen/Stats-Preview-Card-Component/assets/126177876/83ae5ac5-5fdc-4a85-a798-d0606f66984c)
 
 
 
